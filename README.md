@@ -7,7 +7,7 @@ Caison “Blake” Lewis
 Southport, NC | (910) 465-4147 | cbl5361@uncw.edu | caison.lewis@gmail.com
 EDUCATION
 University of North Carolina Wilmington
-Bachelor of Science, Computer Science December 2024
+Bachelor of Science, Computer Science July 2024
 Concentration: Cybersecurity
 Minor: Cybersecurity
 GPA 3.0
