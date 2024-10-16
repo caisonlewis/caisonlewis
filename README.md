@@ -1,20 +1,16 @@
 - 👋 Hi, I’m @caisonlewis
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Software Development & Information Security
+- 🎓 I graduated from The University of North Carolina Wilmington with a Bachelor's Degree in Computer Science
+- 💻 I am currently proficient in Python, Java, Javascript, C++, and SQL
 - 📫 How to reach me ... Email: caison.lewis@gmail.com 
 
 Caison “Blake” Lewis
-Southport, NC | (910) 465-4147 | cbl5361@uncw.edu | caison.lewis@gmail.com
+caison.lewis@gmail.com
+
 EDUCATION
 University of North Carolina Wilmington
 Bachelor of Science, Computer Science July 2024
 Concentration: Cybersecurity
-Minor: Cybersecurity
-GPA 3.0
-Brunswick Community College
-Associate of Arts
-Graduate With Honors
-GPA – 3.70
+
 SKILLS:
 OS/Platforms – Windows 10, Mac, Linux 
 
