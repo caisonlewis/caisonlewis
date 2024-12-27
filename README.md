@@ -11,6 +11,11 @@ University of North Carolina Wilmington
 Bachelor of Science, Computer Science July 2024
 Concentration: Cybersecurity
 
+CERTIFICATIONS
+Pharmacy Technicians License
+North Carolina Board of Pharmacy
+Exp: December 2025
+
 SKILLS:
 OS/Platforms – Windows 10, Mac, Linux 
 
@@ -48,8 +53,7 @@ Database Design/Implementation
 POLICY/LEGAL/ETHICS/COMPLIANCE 
 
 WORK EXPERIENCE:
+Inventory Specialist, Walgreens| Southport, NC November 2024 - Present
+
 Assistant Manager, Dollar General Corp.| Southport, NC March 2017 – September 2019
 
-Helper, D&G Contractors | Leland, NC June 2016 – January 2017
-
-Service Porter, BMW of Wilmington | Wilmington, NC October 2015 – June 2016
